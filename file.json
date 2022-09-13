@@ -1,0 +1,8 @@
+{
+    "db":{
+      "server":"localhost",
+      "dbname":"examen",
+      "username":"root",
+      "password":"root"
+   }
+ }
